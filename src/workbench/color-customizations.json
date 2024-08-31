@@ -1,0 +1,53 @@
+"workbench.colorCustomizations": {
+    // Editor
+    "editor.foreground": "#989898",
+    "editor.background": "#131313",
+    "editor.foldBackground": "#6262621b",
+
+    // Status Bar
+    "statusBar.foreground": "#e2e2e2",
+    "statusBar.background": "#131313",
+    "statusBarItem.remoteBackground": "#1b9355",
+
+    // Panel
+    "panelTitle.activeForeground": "#e2e2e2",
+    "panelTitle.inactiveForeground": "#e2e2e258",
+    "panel.background": "#131313",
+
+    // Warning
+    "editorWarning.foreground": "#ffdd00",
+
+    // Error
+    "editorError.foreground": "#ff0000",
+
+    // Cursor
+    "editorCursor.foreground": "#22c370",
+    "editor.selectionBackground": "#3b3b3bae",
+
+    // Terminal
+    "terminal.foreground": "#e2e2e2",
+    "terminalCursor.foreground": "#22c370",
+
+    // Button
+    "button.foreground": "#e2e2e2",
+    "button.background": "#383838",
+
+    // Widget
+    "editorWidget.foreground": "#e2e2e2d1",
+    "editorWidget.background": "#0e0e0ebc",
+    "editorWidget.border": "#2c46d8",
+
+    // Suggestion Widget
+    "editorSuggestWidget.foreground": "#e2e2e2d1",
+    "editorSuggestWidget.background": "#0e0e0ebc",
+    "editorSuggestWidget.border": "#2c46d8",
+    "editorSuggestWidget.selectedBackground": "#2c46d8",
+
+    // Search Engine
+    "editor.findMatchBackground": "#3a61d5dd",
+    "editor.findMatchBorder": "#1610c98a",
+    "editorLineNumber.foreground": "#434343",
+
+    // Editor Line Number
+    "editorLineNumber.activeForeground": "#25D67A"
+}
