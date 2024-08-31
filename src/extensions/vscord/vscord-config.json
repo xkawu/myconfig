@@ -1,0 +1,23 @@
+{
+  "vscord.app.name": "Visual Studio Code",
+  "vscord.status.buttons.button1.enabled": false,
+  "vscord.status.buttons.button1.git.active.enabled": false,
+  "vscord.status.buttons.button1.git.idle.enabled": false,
+  "vscord.status.buttons.button2.git.active.enabled": false,
+  "vscord.status.buttons.button2.git.idle.enabled": false,
+  "vscord.status.details.text.editing": "📁・{workspace} {problems}",
+  "vscord.status.details.text.notInFile": "Surfing on files 🏄‍♂️",
+  "vscord.status.details.text.viewing": "📁・{workspace} {problems}",
+  "vscord.status.details.text.noWorkSpaceText": "",
+  "vscord.status.details.text.debugging": "📄🔨・{file_name}{file_extension}・{line_count} lines",
+  "vscord.status.state.text.debugging": "📁🔨・{workspace}",
+  "vscord.status.state.text.editing": "📝・{file_name}{file_extension}・{line_count} lines",
+  "vscord.status.state.text.noWorkspaceFound": "",
+  "vscord.status.state.text.viewing": "📄👀・{file_name}{file_extension}・{line_count} lines",
+  "vscord.status.image.small.notInFile.text": "",
+  "vscord.status.image.large.idle.text": "",
+  "vscord.status.problems.text": "・{problems_count} problems found",
+  "vscord.status.details.text.idle": "Looking outside of the window 🍂",
+  "vscord.status.state.text.idle": "",
+  "vscord.status.image.small.idle.text": ""
+}
